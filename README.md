@@ -24,10 +24,9 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 7: Weather App - Node.js and Express.js. This project uses external weather API to make GET call to get the weather data after a POST request is sent.
 
-- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://shrouded-river-17694.herokuapp.com/
+- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc 
 
 - Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
-  
 
 - Project 11: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. 
 
@@ -35,8 +34,37 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 ## Topics covered
 
-HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas,
-mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, passport-local-mongoose, passport-google-path20, mongoose-findorcreate, express-session, API, JSON, Authentication, Mailchimp API, Build REST API from scratch, Heroku.
+### Tools:
+1. Git and GitHub
+2. Bootstrap
+3. jQuery
+4. Node.js
+5. Express.js
+6. MongoDB
+7. EJS (Embedded JavaScript)
+8. Passport.js (Authentication)
+9. Mongoose
+10. API usage (including RESTful APIs)
+11. Heroku (Deployment)
+12. Postman (API Testing)
+13. Databases (SQL, NoSQL)
+14. Docker (Basic Introduction)
+15. NPM
+
+### Skills:
+1. HTML, CSS, JavaScript
+2. Front-end development with React
+3. Back-end development with Node.js and Express.js
+4. Building RESTful APIs
+5. Responsive Web Design
+6. Full-stack development (MERN)
+7. Version Control with Git
+8. Working with Databases (SQL and NoSQL)
+9. Authentication & Security Basics
+10. Project Deployment & Management
+11. UI/UX Design Principles
+
+This list gives you a strong foundation in both front-end and back-end development, with additional skills in deployment and version control.
 
 ### Section 9: Introduction to JavaScript ES6
 
@@ -250,11 +278,4 @@ Folder: Secrets
 - 460: Keeper App Project - Part 3
 - 461: React Dependencies & Styling the Keeper App 
 
-### Tools used
 
-- codepen
-- Atom
-- Postman
-- Hyper terminal
-- Visual Studio Code
-- https://codesandbox.io/
