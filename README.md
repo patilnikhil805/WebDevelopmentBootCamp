@@ -64,7 +64,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 10. Project Deployment & Management
 11. UI/UX Design Principles
 
-This list gives you a strong foundation in both front-end and back-end development, with additional skills in deployment and version control.
+
 
 ### Section 9: Introduction to JavaScript ES6
 
